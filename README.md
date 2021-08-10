@@ -6,4 +6,4 @@ UIUC ECE 220 - wwu70 \
   MP5: Implements Game of Life in C \
   MP6: Implements a maze solver using a recursive DFS and functions that can be used to verify a correct solution (C) \
   MP7: Implemented a floorplanner that layouts a set of rectangular modules and optimizes the packing area for VLSI design (C) \
-  MP8: Implements C++ classes to represent imaginary numbers, real numbers, and complex numbers \
+  MP8: Implements C++ classes to represent imaginary numbers, real numbers, and complex numbers
